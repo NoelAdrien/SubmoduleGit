@@ -1,0 +1,3 @@
+[submodule "GitModuleTest/SubModuleExtentionProject"]
+	path = GitModuleTest/SubModuleExtentionProject
+	url = https://github.com/NoelAdrien/SubModuleExtentionProject.git
